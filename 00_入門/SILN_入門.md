@@ -176,12 +176,12 @@ AIが自分自身をSILNとして読んでいる——
 
 **SILN（シルン）**
 
-*Survival-biased Integration of Local Linear approximations in a Nonlinear world*
-（非線形な世界で、壊されても残り続けた近似の積み重ね）
+*Survival-biased Integration of Local Linear approximations in a Nonlinear Network*
+（非線形な関係ネットワークで、壊されても残り続けた近似の積み重ね）
 
 難しく見えるが、言っていることはここまで話してきたことと同じだ。
 
-- 非線形な世界：どこまで見ても完全には捉えきれない世界
+- 非線形な関係ネットワーク：どこまで見ても完全には捉えきれない関係の場
 - 局所線形近似：ある範囲では通用する見方
 - 壊されても残り続けた：破綻を超えて生き残ったもの
 - 積み重ね：使われるほど深く根を張る

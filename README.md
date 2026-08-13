@@ -167,10 +167,10 @@ SILN分解は一回操作ではなく、揺れに対する追従運用です。
 | 限界空間 | 絶対的確定性が成立しない場。可能性・誤差・揺らぎを含む前提空間 |
 | 関係力学 | 構造と作用の関係から、安定・変化・跳躍を記述する考え方 |
 | 関係力学言語（RDL） | SILN を扱うための言語 |
-| SILN | Survival-biased Integration of Local Linear approximations in a Nonlinear world。関係の中で一時的に安定しているパターン |
+| SILN | Survival-biased Integration of Local Linear approximations in a Nonlinear Network。関係の中で一時的に安定しているパターン |
 | ξ | 揺らぎ。確定しきれない余白。SILN化を拒む方向 |
 | B | 境界。観測者が引く irreducible な操作 |
-| M_B | 境界 B における整合慣性。SILN の本体 |
+| M_B | 境界 B における整合慣性。SILN の B 依存的な操作表現 |
 | EFP | 素流圧。M_B の外側から流入する未解釈の作用束（直接観測不能） |
 | F | 作用解釈。M_B が EFP を解釈した結果（観測者が実際に持つ唯一の情報） |
 | E | 慣性誤差。慣性投影と実際の F の差 |

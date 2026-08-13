@@ -6,7 +6,7 @@
 
 ## ■ 概要
 
-SILN（Survival-biased Integration of Local Linear approximations in a Nonlinear world）は
+SILN（Survival-biased Integration of Local Linear approximations in a Nonlinear Network）は
 そのままでは抽象度が高すぎるため、分解なしでは意味を持たない。
 
 したがって、実用上は
@@ -651,7 +651,7 @@ Identity_B = similarity(M_B(t), M_B(0))
 SILN = (M_B, L, W)
 ```
 
-- M_B　：整合慣性（境界 B 依存の SILN本体）
+- M_B　：整合慣性（SILN の境界 B 依存的な操作表現）
 - L　　：ラベル
 - W　　：社会的関係
 
